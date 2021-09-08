@@ -1,0 +1,18 @@
+.search{
+    width: 660px;
+    margin: 0 30px;
+    margin-top: 5px;
+    border-radius: 5px;
+    padding: 7px;
+    border: none;
+    overflow: hidden;
+    color: blue;
+   
+}
+.fa-search{
+    position: absolute;
+    margin-left: -60px;
+    margin-top: 20px;
+    color: rgb(52, 58, 58);
+    z-index: 10;
+}
